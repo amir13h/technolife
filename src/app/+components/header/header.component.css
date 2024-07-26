@@ -1,0 +1,30 @@
+#logo {
+    margin: 30px 30px ;
+    display: flex;
+}
+#logo1{
+    margin-right:50px ;
+    border-radius:16px ;
+    display: flex;
+    border: 1px solid black;
+    height: 60px;
+    background-color: rgb(238, 237, 237);
+}
+#login {
+    display: flex;
+    margin-right: 200p
+}
+#login>svg {
+    margin-right: 200px;
+    transform:scale(1.5,1.5) ;
+}
+#logo>div>input{
+    width: 580px;
+    margin-top: 9px;
+    height: 40px;
+    border: none;
+    outline:none ;
+    font-size: 16px;
+    background-color: rgb(238, 237, 237);
+    
+}
