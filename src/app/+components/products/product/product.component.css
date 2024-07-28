@@ -2,7 +2,7 @@
     border: 1px solid gray;
     border-radius: 15px;
     width: 305px;
-    height: 470px;
+    height: 550px;
     padding: 8px;
     margin-top:10px ;
     margin-right: 10px;
@@ -15,4 +15,35 @@
 }
 #Product {
     color:red ;
+}
+.svg svg{
+    width: 30px;
+}
+#svg1{
+    position: relative;
+    right: 83px;
+    bottom: 38px;
+}
+#svg2{
+    position: relative;
+    right: 160px;
+    bottom: 40px;
+}
+#details{
+    display: flex;
+    position: relative;
+    bottom: 47px;
+    font-size: 15px;
+    color: rgb(41, 41, 41);
+}
+#p2{
+    margin: 5px  76px 20px 40px;
+}
+#p1{
+    margin: 5px  40px 20px 40px;
+}
+#Product1{
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
 }
