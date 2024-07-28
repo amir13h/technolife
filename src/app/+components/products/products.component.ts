@@ -23,7 +23,7 @@ export class ProductsComponent {
     {title:'لپ تاپ لنوو 15.6 اینچی مدل LOQ Gaming i5 13420H 16GB 1TB RTX3050',price:'27,000,000',count:2,details:'Core i5',ram:16,img:'https://www.technolife.ir/image/small_product-TLP-35014_88576817-e556-4e67-ab56-cbf9f1206b92.png'},
     {title:'لپ تاپ ایسوس 15.6 اینچی مدل Vivobook X1502ZA i5 12500H 8GB 512GB',price:'30,300,000',count:2,details:'Core i5',ram:8,img:'https://www.technolife.ir/image/small_product-TLP-30481_ecf78f32-0f1f-4372-b03e-d85187bac0ac.png'},
     {title:'لپ تاپ لنوو 15.6 اینچی مدل IdeaPad N4020 4GB 256GB',price:'15,000,000',count:2,details:'Celeron',ram:4,img:'https://www.technolife.ir/image/small_product-TLP-31930_9e8c3440-cbbd-4954-a6df-9c3101f9f19b.png'},
-    {title:'لپ تاپ لنوو 15.6 اینچی V15 N4500 8GB 512GB',price:'18,300,000',count:2,details:'Celeron',ram:8,img:'https://www.technolife.ir/image/small_product-TLP-27215_652e4c2a-08ef-4857-a63a-00b342eeb857.png'},
+    {title:'لپ تاپ لنوو 15.6 اینچی  Vrt15 N4500AA  8GB  512GB',price:'18,300,000',count:2,details:'Celeron',ram:8,img:'https://www.technolife.ir/image/small_product-TLP-27215_652e4c2a-08ef-4857-a63a-00b342eeb857.png'},
     {title:'لپ تاپ لنوو 15.6 اینچی IdeaPad Slim3 i3 1305U 8GB 256GB',price:'19,300,000',count:2,details:'Core i3',ram:8,img:'https://www.technolife.ir/image/small_product-TLP-34745_e27067ef-7228-4b9d-8e20-d506512507ca.png'}
   ]
 }
