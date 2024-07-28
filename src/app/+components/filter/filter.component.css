@@ -1,0 +1,37 @@
+#parent {
+    border: 1px solid rgb(132, 132, 132);
+    border-radius: 20px;
+    width: 250px;
+    height: 650px;
+    margin-right: 7px;
+    margin-top: 37px;
+    padding: 10px;
+    position: fixed;
+}
+#parent h2{
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+#menu {
+    display: flex;
+}
+#menu ul{
+padding: 0px;
+}
+#menu li{
+    margin-right: 0px;
+    list-style: none;
+    font-size: 20px;
+    margin-top: 12px;
+}
+#svg{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    right: 60px;
+    top: 10px;
+}
+#svg svg{
+
+    margin-top: 19px;
+}

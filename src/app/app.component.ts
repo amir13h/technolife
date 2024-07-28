@@ -7,7 +7,6 @@ import { ProductsComponent } from './+components/products/products.component';
   standalone: true,
   imports: [
     ProductsComponent,
-    ProductsComponent
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'

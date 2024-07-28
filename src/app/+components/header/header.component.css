@@ -1,21 +1,36 @@
 #logo {
-    margin: 30px 30px ;
+    margin: 10px 30px ;
     display: flex;
 }
 #logo1{
     margin-right:50px ;
     border-radius:16px ;
+    position: relative;
+    top: 4px;
     display: flex;
-    border: 1px solid black;
+    border: none;
     height: 60px;
     background-color: rgb(238, 237, 237);
 }
 #login {
     display: flex;
-    margin-right: 200p
+    
+}
+#login>p {
+    position: relative;
+    bottom: 8px;
+    right: 300px;
+    border: 1px solid rgb(168, 132, 58);
+    border-radius: 4px;
+    padding: 8px 20px;
 }
 #login>svg {
-    margin-right: 200px;
+    border: 1px solid rgba(165, 165, 165, 0.326);
+    border-radius: 3px;
+    position: relative;
+    
+    top: 16px;
+    right: 320px;
     transform:scale(1.5,1.5) ;
 }
 #logo>div>input{
@@ -26,5 +41,28 @@
     outline:none ;
     font-size: 16px;
     background-color: rgb(238, 237, 237);
-    
+}
+#menu{
+    position: absolute;
+    list-style: none;
+    top: 150px;
+    right: -32px;
+
+}
+#menu li{
+    position: relative;
+    list-style: none;
+    display: inline-block;
+    font-size: 17px;
+    text-align: center;
+    padding: 0 14px;
+}
+hr{
+    position: relative;
+    top: 30px;
+    margin-bottom: 30px;
+}
+a {
+    text-decoration: none;
+    color: rgb(49, 49, 49);
 }
