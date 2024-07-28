@@ -1,1 +1,7 @@
 <app-header/>
+<div>
+    <!-- <app-filter/> -->
+    @for (item of products; track $index) {
+        <app-product [Product]="item"/>
+    }
+</div>
