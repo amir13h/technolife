@@ -15,7 +15,9 @@ export class ProductComponent {
     count:4,
     price:'4',
     details:'d',
-    ram:1
+    ram:1,
   }
-
+  click() {
+    alert('با موفقیت کلیک شما ثبت شد 😎😎');
+  }
 }

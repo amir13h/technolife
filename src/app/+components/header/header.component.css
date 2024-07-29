@@ -1,10 +1,10 @@
 #logo {
-    margin: 10px 30px ;
+    margin: 10px 30px;
     display: flex;
 }
-#logo1{
-    margin-right:50px ;
-    border-radius:16px ;
+#logo1 {
+    margin-right: 50px;
+    border-radius: 16px;
     position: relative;
     top: 4px;
     display: flex;
@@ -14,7 +14,7 @@
 }
 #login {
     display: flex;
-    
+
 }
 #login>p {
     position: relative;
@@ -28,28 +28,28 @@
     border: 1px solid rgba(165, 165, 165, 0.326);
     border-radius: 3px;
     position: relative;
-    
+
     top: 16px;
     right: 320px;
-    transform:scale(1.5,1.5) ;
+    transform: scale(1.5, 1.5);
 }
-#logo>div>input{
+#logo>div>input {
     width: 580px;
     margin-top: 9px;
     height: 40px;
     border: none;
-    outline:none ;
+    outline: none;
     font-size: 16px;
     background-color: rgb(238, 237, 237);
 }
-#menu{
+#menu {
     position: absolute;
     list-style: none;
     top: 150px;
     right: -32px;
 
 }
-#menu li{
+#menu li {
     position: relative;
     list-style: none;
     display: inline-block;
@@ -57,16 +57,18 @@
     text-align: center;
     padding: 0 14px;
 }
-hr{
+hr {
     position: relative;
     top: 30px;
     margin-bottom: 30px;
 }
-a {
-    text-decoration: none;
-    color: rgb(49, 49, 49);
-}
 #banner {
     width: 1339px;
     height: 60px;
+}
+a {
+    position: relative;
+    text-decoration: none;
+    color: #383838;
+    font-size: 18px;
 }
